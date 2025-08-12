@@ -1,0 +1,9 @@
+.hero-section {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1581092919504-5c214fb2f6b0') center/cover no-repeat;
+  height: 100vh;
+}
+
+.cta-section {
+  background-color: #007bff;
+color: white;
+}
